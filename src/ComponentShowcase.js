@@ -4,7 +4,7 @@ import { Alert, Avatar, Badge, Breadcrumb, Button, Card, Checkbox, Collapse, Dat
 import CustomHeader from './Header';
 import { UserOutlined, CheckOutlined, MailOutlined, AppstoreOutlined, SettingOutlined } from '@ant-design/icons';
 import './index.css';
-import {  useTheme} from './ThemeContext'; // Import the ThemeProvider
+import {  useTheme } from './ThemeContext'; // Import the ThemeProvider
 import { lightTheme, darkTheme } from './theme';
 
 

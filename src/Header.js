@@ -7,7 +7,7 @@ import ThemeSwitcher from './themeSwitcher';
 
 const { Header } = Layout;
 
-const navItems = [{"key":1,"label":"Light"},{"key":2,"label":"Dark"}]
+const navItems = []
 
 
 const CustomHeader = () => {

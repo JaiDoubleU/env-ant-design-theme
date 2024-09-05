@@ -1,7 +1,6 @@
 
 
 export const lightTheme = {
-  
   token: {
    // General Tokens
     borderRadius: 3, // Global border radius
@@ -309,11 +308,54 @@ export const lightTheme = {
 };
 
 export const darkTheme = {
-  token: {
-    colorBgBase: '#121212',
-    colorTextBase: '#ffffff',
-    colorPrimary: '#1DA57A',
-    colorBorderBase: '#fefefe',
-    // Add more dark theme tokens
+  token: {     
+   // General Tokens
+    borderRadius: 3, // Global border radius
+    borderWidth: 0.5, // Global border width
+    boxShadow: 'none', // Sets the global box shadow to none
+    boxShadowCard: 'none', // Specific for Card component shadows
+    boxShadowDrawer: 'none', // Specific for Drawer component
+    boxShadowPopoverArrow: 'none', // Specific for Popover component
+    boxShadowSecondary: 'none', // Removes secondary box shadows
+    boxShadowTooltip: '0 1px 2px -2px rgba(0, 0, 0, 1.0)', // Specific for Tooltip component
+    controlHeight: 32, // Default height of controls
+    dangerShadow: 'none',
+    defaultShadow: 'none',
+    fontFamily: ' sans-serif', // Font family
+    fontSizeBase: 15, // Base font size
+    fontSizeLg: 16, // Large font size
+    fontSizeSm: 12, // Small font size
+    fontWeightBold: 500, // Bold font weight
+    fontWeightNormal: 400, // Normal font weight
+    lineHeight: 1.5, // Base line height
+    lineHeightLg: 1.8, // Large line height
+    lineHeightSm: 1.2, // Small line height
+    primaryShadow: 'none',
+    spacingUnit: 8, // Base unit for spacing
+
+    // Global Color Tokens
+    colorBgBase: '#3e3e3e', // Base background color
+    colorBgContainer: '#3c3c3c', // Background color for containers
+    colorBgElevated: '#424242',
+    colorBgLayout: '#424242', // Layout background color
+    colorBorderBase: '#d9d9d9', // Base border color
+    colorBorderHover: '#C5C5C5', // Border color on hover
+    colorError: '#f5222d', // Error color
+    colorInfo: '#1890ff', // Info color
+    colorLink: '#2576A7', // Link color
+    colorLinkHover: '#3193CE', // Link color on hover
+    colorPrimary: '#387F1D', // Primary brand color
+    colorPrimaryActive: '#2A6314', // Primary color when active
+    colorPrimaryHover: '#479E26', // Primary color when hovered
+    colorSuccess: '#52c41a', // Success color
+    colorText: "#fefefe",
+    colorTextBase: '#fefefe', // Base text color
+    colorTextDisabled: '#6A6670', // Disabled text color
+    colorTextPlaceholder:	'2B292E',
+    colorTextQuaternary: "#ddddde",
+    colorTextSecondary: "#eeeeee",
+    colorTextTertiary: "#e7e7e7",
+    colorTextWarning: "#000",
+    colorWarning: '#faad14', // Warning color  
   },
 };

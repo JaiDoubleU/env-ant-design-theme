@@ -4,7 +4,7 @@ import ComponentShowcase from './ComponentShowcase'; // Import the showcase comp
 
 // const currentTheme = ThemeProvider.isDarkMode ? darkTheme : lightTheme;
 const App = () => (  
-      <div className="App">
+      <div className="App" >
         <ComponentShowcase />
       </div>
 );
