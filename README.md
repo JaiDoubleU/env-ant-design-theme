@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+<img height="180" src="https://camo.githubusercontent.com/f6bf5ee2b30310ad83a81212b9be69bdc2bb577f2ebe868ad89f8586b4721ffc/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" data-canonical-src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" style="max-width: 100%;">
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
